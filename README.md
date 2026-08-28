@@ -11,4 +11,4 @@ Bot para WhatsApp em Node.js com IA generativa (Google Gemini), criador de stick
 - Uma chave de API da Gemini (Google AI Studio).
 
 ### Crie um arquivo ".env" na raiz com a chave de API:
-GEMINI_API_KEY=sua_chave_aqui
+"GEMINI_API_KEY="
